@@ -1,1 +1,3 @@
 # Nakama-Dev
+Slides - https://www.canva.com/design/DAGkZIyoFgY/HNiE_3uEVml-jQRy2GU7fA/edit?utm_content=DAGkZIyoFgY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Figma - https://www.figma.com/proto/gnxJRQH1N6Ru2o62wsNiZ9/Ajuda-1.0---Donation-App-UI-Kit--Community-?node-id=203-4&t=RjqSb11WyzusO7np-1
